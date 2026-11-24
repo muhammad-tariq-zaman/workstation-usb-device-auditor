@@ -1,0 +1,8 @@
+workstation,device,device_class,approved
+WS-01,Logitech Mouse,input,yes
+WS-01,Kingston 64GB,storage,no
+WS-01,HP Keyboard,input,yes
+WS-02,Unknown Dongle,input,no
+WS-02,Seagate Backup,storage,yes
+WS-03,SanDisk 128GB,storage,no
+WS-03,Weird Thing,magic,no
